@@ -1,0 +1,16 @@
+C:\Coding\GUI\GUIForSimpleCalc\GUIForSimpleCalc\bin\Debug\GUIForSimpleCalc.exe.config
+C:\Coding\GUI\GUIForSimpleCalc\GUIForSimpleCalc\bin\Debug\GUIForSimpleCalc.exe
+C:\Coding\GUI\GUIForSimpleCalc\GUIForSimpleCalc\bin\Debug\GUIForSimpleCalc.pdb
+C:\Coding\GUI\GUIForSimpleCalc\GUIForSimpleCalc\obj\Debug\GUIForSimpleCalc.csproj.AssemblyReference.cache
+C:\Coding\GUI\GUIForSimpleCalc\GUIForSimpleCalc\obj\Debug\GUIForSimpleCalc.csproj.SuggestedBindingRedirects.cache
+C:\Coding\GUI\GUIForSimpleCalc\GUIForSimpleCalc\obj\Debug\MainWindow.g.cs
+C:\Coding\GUI\GUIForSimpleCalc\GUIForSimpleCalc\obj\Debug\App.g.cs
+C:\Coding\GUI\GUIForSimpleCalc\GUIForSimpleCalc\obj\Debug\GUIForSimpleCalc_MarkupCompile.cache
+C:\Coding\GUI\GUIForSimpleCalc\GUIForSimpleCalc\obj\Debug\GUIForSimpleCalc_MarkupCompile.lref
+C:\Coding\GUI\GUIForSimpleCalc\GUIForSimpleCalc\obj\Debug\MainWindow.baml
+C:\Coding\GUI\GUIForSimpleCalc\GUIForSimpleCalc\obj\Debug\GUIForSimpleCalc.g.resources
+C:\Coding\GUI\GUIForSimpleCalc\GUIForSimpleCalc\obj\Debug\GUIForSimpleCalc.Properties.Resources.resources
+C:\Coding\GUI\GUIForSimpleCalc\GUIForSimpleCalc\obj\Debug\GUIForSimpleCalc.csproj.GenerateResource.cache
+C:\Coding\GUI\GUIForSimpleCalc\GUIForSimpleCalc\obj\Debug\GUIForSimpleCalc.csproj.CoreCompileInputs.cache
+C:\Coding\GUI\GUIForSimpleCalc\GUIForSimpleCalc\obj\Debug\GUIForSimpleCalc.exe
+C:\Coding\GUI\GUIForSimpleCalc\GUIForSimpleCalc\obj\Debug\GUIForSimpleCalc.pdb
