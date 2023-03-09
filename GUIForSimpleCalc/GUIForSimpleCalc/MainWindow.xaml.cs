@@ -98,5 +98,40 @@ namespace GUIForSimpleCalc
             var = "";
         }
 
+        private void but_5_Click(object sender, RoutedEventArgs e)
+        {
+            var = var + "5";
+            Output.Content = var;
+        }
+
+        private void but_6_Click(object sender, RoutedEventArgs e)
+        {
+            var = var + "6";
+            Output.Content = var;
+        }
+
+        private void but_7_Click(object sender, RoutedEventArgs e)
+        {
+            var = var + "7";
+            Output.Content = var;
+        }
+
+        private void but_8_Click(object sender, RoutedEventArgs e)
+        {
+            var = var + "8";
+            Output.Content = var;
+        }
+
+        private void but_9_Click(object sender, RoutedEventArgs e)
+        {
+            var = var + "9";
+            Output.Content = var;
+        }
+
+        private void but_0_Click(object sender, RoutedEventArgs e)
+        {
+            var = var + "0";
+            Output.Content = var;
+        }
     }
 }
