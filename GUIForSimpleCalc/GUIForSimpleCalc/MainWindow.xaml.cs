@@ -25,7 +25,7 @@ namespace GUIForSimpleCalc
         {
             InitializeComponent();
         }
-        
+        //
         private void but_1_Click(object sender, RoutedEventArgs e)
         {
             //Assign nomor pada button
