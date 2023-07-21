@@ -25,7 +25,7 @@ namespace GUIForSimpleCalc
         {
             InitializeComponent();
         }
-
+        
         private void but_1_Click(object sender, RoutedEventArgs e)
         {
             //Assign nomor pada button
@@ -56,6 +56,7 @@ namespace GUIForSimpleCalc
             var = var + "+";
             Output.Content = var;
         }
+        // Calculation Logic
         private void but_equal_Click(object sender, RoutedEventArgs e)
         {
             int i = 1;
