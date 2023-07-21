@@ -28,6 +28,7 @@ namespace GUIForSimpleCalc
 
         private void but_1_Click(object sender, RoutedEventArgs e)
         {
+            //Assign nomor pada button
             var = var + "1";
             Output.Content = var;
         }
